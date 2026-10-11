@@ -1,0 +1,22 @@
+{
+  "checks_per_version": 3,
+  "external_services": false,
+  "fictional": true,
+  "files": {
+    "README.md": "7b41dd0b500732638cda4b0cdcd6aa944d0358d9b124b5b0f661ca14203503e3",
+    "analysis.py": "bf7ee8690db176b5a192eff7d695f936a4489a690eca3c793f6cb6fa049a6419",
+    "data/sensor.csv": "3d7e5c72338378aff541b191bd549a554968d4b0f25645483f53ef7fb008b0fd",
+    "project.md": "b1c474c6c003604d173697c197feb2485b612b1626e805b3ba5ab294559466dd",
+    "runtime.json": "b044a1d687b8118fc0a3b07865c41f66da78609d5948f530977c5a5f0b31f473",
+    "summary.json": "04a885f73beac696a13d0fbd87955de8450b35bd9cd7a3089fd24e607139a64f",
+    "test_analysis.py": "011f4d085e2f9b89430c92080dfcd82c9e7585a767b19ed98b65a8dc39cd412e",
+    "tests-python312.txt": "921b60a7fd52e978fbb551cacd29df2d6708879400278e1fcc70fceeb0c6f8e0",
+    "tests-python313.txt": "921b60a7fd52e978fbb551cacd29df2d6708879400278e1fcc70fceeb0c6f8e0"
+  },
+  "output_bytes_identical": true,
+  "python_versions": [
+    "3.13.12",
+    "3.12.14"
+  ],
+  "schema": "fictional-analysis-artefacts-v1"
+}
